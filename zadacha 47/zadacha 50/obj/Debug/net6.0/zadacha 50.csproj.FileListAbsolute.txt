@@ -1,0 +1,15 @@
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\bin\Debug\net6.0\zadacha 50.exe
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\bin\Debug\net6.0\zadacha 50.deps.json
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\bin\Debug\net6.0\zadacha 50.runtimeconfig.json
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\bin\Debug\net6.0\zadacha 50.dll
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\bin\Debug\net6.0\zadacha 50.pdb
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\zadacha 50.csproj.AssemblyReference.cache
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\zadacha 50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\zadacha 50.AssemblyInfoInputs.cache
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\zadacha 50.AssemblyInfo.cs
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\zadacha 50.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\zadacha 50.dll
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\refint\zadacha 50.dll
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\zadacha 50.pdb
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\zadacha 50.genruntimeconfig.cache
+C:\Users\1\Documents\47, 50, 52\zadacha 47\zadacha 50\obj\Debug\net6.0\ref\zadacha 50.dll
